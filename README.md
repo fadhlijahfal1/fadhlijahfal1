@@ -1,5 +1,5 @@
 ## Hi there 👋
-![screenshot](Hambúrguer PNG Transparente Sem Fundo Lanche Comida.png)
+
 <!--
 **fadhlijahfal1/fadhlijahfal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
