@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently studying as a Data Science Student
+Data Science Student | Data Visualization | Business Analytics
+I’m currently a Data Science student focused on turning complex datasets into actionable insights. When I'm not training models, I'm managing an e-commerce business or analyzing market trends.
 
 
 ## 🌐 Socials:
